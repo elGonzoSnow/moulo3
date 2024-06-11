@@ -1,11 +1,8 @@
 diagrama de flujo 
 ![0](https://github.com/elGonzoSnow/moulo3/assets/122803276/4b04fbe5-5d7e-4373-8bfa-93a9587efafd)
 
-Título y Descripción:
-El título Fast - Tu Tienda Virtual de Simracing describe brevemente el proyecto.
-La descripción proporciona una introducción concisa al proyecto y su propósito.
-markdown
-Copiar código
+
+
 # Fast - Tu Tienda Virtual de Simracing
 
 ¡Bienvenido a Fast, tu destino para los mejores productos de simracing del mercado! Este repositorio contiene el código fuente para el sitio web de Fast, donde puedes explorar nuestro catálogo y llevar tu experiencia de simulación de carreras al siguiente nivel.
