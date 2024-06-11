@@ -135,7 +135,7 @@ tuve algunos problemas cn el que no pude solucionar como la subposicion de algun
 aca dejo el css
 
 tambien use mas bien integre una fuente llamada Rubik de google fonts. que era mas del estilo de la tienda 
-
+<[!important]>
 y cree un logo para la misma. lo hice yo no lo baje de internet.
 
 gracias !!
